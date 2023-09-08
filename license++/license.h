@@ -12,6 +12,7 @@
 #define License_h
 
 #include <string>
+#include <cstdint>
 
 namespace licensepp {
 
